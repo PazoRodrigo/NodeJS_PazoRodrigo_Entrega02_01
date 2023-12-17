@@ -1,0 +1,68 @@
+[
+	{
+		"id": "a2eead85-c774-453e-bf36-8e0f04462193",
+		"title": "titulo 3",
+		"description": "description 3",
+		"code": "code 3",
+		"price": "price 3",
+		"status": "status 3",
+		"stock": "stock 3",
+		"category": "category 3",
+		"thumbnail": "3"
+	},
+	{
+		"id": "a0b2421e-9afa-4b7a-93b4-6b8f9a921cca",
+		"title": "titulo 2",
+		"description": "description 2",
+		"code": "code 2",
+		"price": "price 2",
+		"status": "status 2",
+		"stock": "stock 2",
+		"category": "category 2",
+		"thumbnail": "2"
+	},
+	{
+		"id": "f64129f7-0d10-4afb-af83-faf7491b4f3b",
+		"title": "titulo 4",
+		"description": "description 4",
+		"code": "code 4",
+		"price": "price 4",
+		"status": "status 4",
+		"stock": "stock 4",
+		"category": "category 4",
+		"thumbnail": "4"
+	},
+	{
+		"id": "f7b49fdf-e116-45b4-8698-305d334885b5",
+		"title": "titulo 1",
+		"description": "description 1",
+		"code": "code 1",
+		"price": "price 1",
+		"status": "status 1",
+		"stock": "stock 1",
+		"category": "category 1",
+		"thumbnail": "1"
+	},
+	{
+		"id": "70cfaff8-40d2-4cd1-ac85-f2802ce27836",
+		"title": "titulo 5",
+		"description": "description 5",
+		"code": "code 5",
+		"price": "price 5",
+		"status": "status 5",
+		"stock": "stock 5",
+		"category": "category 5",
+		"thumbnail": "5"
+	},
+	{
+		"id": "5021dfe1-e8dd-497e-967e-90124afb4cec",
+		"title": "titulo con Foto",
+		"description": "description",
+		"code": "code",
+		"price": "16",
+		"status": "true",
+		"stock": "90",
+		"category": "category",
+		"thumbnail": "C:\\Users\\rpazo\\Desktop\\Coderhouse\\NodeJS\\Entregas\\PazoRodrigo_Entrega01\\src\\public\\imagen.png"
+	}
+]

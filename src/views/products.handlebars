@@ -1,0 +1,35 @@
+{{!-- Es mi HTML, remplaza al body de  main.handlebars --}}
+<h1>Lista de Productos</h1>
+
+<h4>{{users.name}}</h4>
+
+{{!-- Valido si puede ver la info --}}
+{{#if isAdmin}}
+{{!-- <table border="1">
+    <thead>
+        <tr>
+            <th width="50px">Id</th>
+            <th width="100px">Name</th>
+        </tr>
+    </thead>
+    <tbody> 
+{{#each products}}
+    <tr>
+        <td>{{this.id}}</td>
+        <td>{{this.name}}</td>
+    </tr>
+</div>
+{{/each}}
+    </tbody>  
+</table> --}}
+    {{#each products}}
+        <div>
+            <p>{{this.id}} / {{this.name}}</p>
+            <hr>
+        </div>
+    {{/each}}
+    {{else}}
+    <p>No eres Administrador</p>
+{{/if}}
+
+<p>Esto es Handlebars de Products</p>
